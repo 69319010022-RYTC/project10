@@ -3,9 +3,9 @@
 
 :root {
     --bg-gradient: linear-gradient(135deg, #fdfbf7 0%, #f5ebd9 100%);
-    --card-back-grad: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
-    --card-back-border: #7dd3fc;
-    --card-back-color: #0369a1;
+    --card-back-grad: linear-gradient(135deg, #ff5e62 0%, #ff9966 100%);
+    --card-back-border: #ff7e67;
+    --card-back-color: #ffffff;
     --card-front-bg: #ffffff;
     --card-front-border: #e2e8f0;
     
@@ -257,7 +257,7 @@ html {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    border: 1px dashed rgba(3, 105, 161, 0.25);
+    border: 1px dashed rgba(255, 255, 255, 0.35);
     border-radius: clamp(6px, 1.5vw, 12px);
 }
 
